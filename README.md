@@ -2,7 +2,7 @@
 ## Bài 1 Các thành phần trong ngôn ngữ C
 - [Bài tập 1](https://www.jdoodle.com/iembed/v0/B63)
 ## bài 2 Các câu lệnh đơn 
-- Bài tập 1
+- [Bài tập 1](https://www.jdoodle.com/iembed/v0/B6d)
 - Bài tập 2
 - Bài tập 3
 - Bài tập 4
