@@ -14,10 +14,10 @@
 - [Bài tập 1](https://www.jdoodle.com/iembed/v0/Bx5)
 - [Bài tập 2](https://www.jdoodle.com/iembed/v0/Bx6)
 ## Bài 4: Các câu lệnh lặp
-- [Bài tập 1]()
-- [Bài tập 2]()
-- [Bài tập 3]()
-- [Bài tập 4]()
+- [Bài tập 1](https://www.jdoodle.com/iembed/v0/Bx7)
+- [Bài tập 2]()chua lam
+- [Bài tập 3]()chua lam
+- [Bài tập 4]()chua lam
 ## Bài 5: Hàm
 ## Bài 6: Mảng 
 ## Bài 7: Chuổi
