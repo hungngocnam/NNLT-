@@ -1,11 +1,11 @@
 # NGÔN NGỮ C
-## Bài 1 Các thành phần trong ngôn ngữ C
+## Bài 1: Các thành phần trong ngôn ngữ C
 - [Bài tập 1](https://www.jdoodle.com/iembed/v0/B63)
-## Bài 2 Các câu lệnh đơn 
+## Bài 2: Các câu lệnh đơn 
 - [Bài tập 1](https://www.jdoodle.com/iembed/v0/B6d)
 - [Bài tập 2](https://www.jdoodle.com/iembed/v0/B6F)
 - [Bài tập 3](https://www.jdoodle.com/iembed/v0/B6D)
-## Bài 3 Các câu lệnh rẽ nhánh 
+## Bài 3: Các câu lệnh rẽ nhánh 
 - [Bài tập 1](https://www.jdoodle.com/iembed/v0/B8b)
 - [Bài tập 2](https://www.jdoodle.com/iembed/v0/B8d)
 - [Bài tập 3](https://www.jdoodle.com/iembed/v0/B8j)
@@ -13,4 +13,13 @@
 ## Bài tập
 - [Bài tập 1](https://www.jdoodle.com/iembed/v0/Bx5)
 - [Bài tập 2](https://www.jdoodle.com/iembed/v0/Bx6)
-## Bài 4 
+## Bài 4: Các câu lệnh lặp
+- [Bài tập 1]()
+- [Bài tập 2]()
+- [Bài tập 3]()
+- [Bài tập 4]()
+## Bài 5: Hàm
+## Bài 6: Mảng 
+## Bài 7: Chuổi
+## bài 8: con trỏ
+## Bài 9: Trừu tượng hóa dữ liệu 
