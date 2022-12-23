@@ -11,6 +11,6 @@
 - [Bài tập 3](https://www.jdoodle.com/iembed/v0/B8j)
 - [Bài tập 4](https://www.jdoodle.com/iembed/v0/B8v)
 ## Bài tập
--[Bài tập 1](https://www.jdoodle.com/iembed/v0/Bx5)
--[Bài tập 2](https://www.jdoodle.com/iembed/v0/Bx6)
+- [Bài tập 1](https://www.jdoodle.com/iembed/v0/Bx5)
+- [Bài tập 2](https://www.jdoodle.com/iembed/v0/Bx6)
 ## Bài 4 
