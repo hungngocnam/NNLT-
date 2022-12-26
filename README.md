@@ -31,6 +31,6 @@
 - [Bài 3]
 - [Bài 4]
 ### Cấu trúc lặp(for,while,do/while)
--[Bài 1]
--[Bài 2]
--[Bài 3]
+- [Bài 1]
+- [Bài 2]
+- [Bài 3]
