@@ -33,4 +33,4 @@
 ### Cấu trúc lặp(for,while,do/while)
 - [Bài 1]
 - [Bài 2](https://www.jdoodle.com/embed/v0/5FZJ)
-- [Bài 3]
+- [Bài 3](https://www.jdoodle.com/embed/v0/5FZM)
