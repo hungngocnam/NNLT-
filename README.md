@@ -15,7 +15,7 @@
 - [Bài tập 2](https://www.jdoodle.com/iembed/v0/Bx6)
 ## Bài 4: Các câu lệnh lặp
 - [Bài tập 1](https://www.jdoodle.com/iembed/v0/Bx7)
-- [Bài tập 2]()chua lam
+- [Bài tập 2](https://www.jdoodle.com/embed/v0/5FU5)
 - [Bài tập 3]()chua lam
 - [Bài tập 4]()chua lam
 ## [Bài  kiểm tra](https://www.jdoodle.com/iembed/v0/BAM)
