@@ -25,9 +25,12 @@
 ## bài 8: con trỏ
 ## Bài 9: Trừu tượng hóa dữ liệu 
 ## Bài Tập Lập Trình:
-# Cấu Trúc Điều kiện if,switch
+### Cấu Trúc Điều kiện if,switch
 - [Bài 1]
 - [Bài 2]
 - [Bài 3]
 - [Bài 4]
-# Cấu trúc lặp(for,while,do/while)
+### Cấu trúc lặp(for,while,do/while)
+-[Bài 1]
+-[Bài 2]
+-[Bài 3]
