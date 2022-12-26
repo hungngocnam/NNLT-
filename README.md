@@ -18,6 +18,7 @@
 - [Bài tập 2]()chua lam
 - [Bài tập 3]()chua lam
 - [Bài tập 4]()chua lam
+## [Bài kiểm tra](https://www.jdoodle.com/iembed/v0/BAM)
 ## Bài 5: Hàm
 ## Bài 6: Mảng 
 ## Bài 7: Chuổi
