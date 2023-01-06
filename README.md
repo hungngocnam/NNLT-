@@ -19,6 +19,7 @@
 - [Bài tập 3]()chưa làm 
 - [Bài tập 4]()chưa làm 
 ## [Bài  kiểm tra](https://www.jdoodle.com/iembed/v0/BAM)
+## [Bài Tập Ngày 3/1/2023]()
 ## Bài 5: Hàm
 ## Bài 6: Mảng 
 ## Bài 7: Chuổi
