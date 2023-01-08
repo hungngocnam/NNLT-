@@ -20,7 +20,7 @@
 - [Bài tập 3](https://www.jdoodle.com/embed/v0/5HDD)
 - [Bài tập 4]()chưa làm 
 ## [Bài  kiểm tra](https://www.jdoodle.com/iembed/v0/BAM)
-## [Bài Tập Ngày 3/1/2023]()
+## [Bài Tập Ngày 3/1/2023](https://www.jdoodle.com/embed/v0/5HDX)
 ## Bài 5: Hàm
 ## Bài 6: Mảng 
 ## Bài 7: Chuổi
