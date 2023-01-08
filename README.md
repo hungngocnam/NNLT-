@@ -38,8 +38,8 @@
 - [Bài 2](https://www.jdoodle.com/embed/v0/5FZJ)
 - [Bài 3](https://www.jdoodle.com/embed/v0/5FZM)
 - [Bài 4](https://www.jdoodle.com/embed/v0/5HHG)
-- [Bài 5]
-- [Bài 6]
-- [Bài 7]
-- [Bài 8]
+- [Bài 5](https://www.jdoodle.com/embed/v0/5HHN)
+- [Bài 6](https://www.jdoodle.com/embed/v0/5HHP)
+- [Bài 7]()chua lam
+- [Bài 8](https://www.jdoodle.com/embed/v0/5HI2)
 - [Bài 9](https://www.jdoodle.com/embed/v0/5HHJ)
