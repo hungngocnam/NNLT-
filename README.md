@@ -34,6 +34,6 @@
 - [Bài 3](https://www.jdoodle.com/iembed/v0/BAO)
 - [Bài 4](https://www.jdoodle.com/embed/v0/5HFV)
 ### Cấu trúc lặp(for,while,do/while)
-- [Bài 1]
+- [Bài 1](https://www.jdoodle.com/embed/v0/5HHu)
 - [Bài 2](https://www.jdoodle.com/embed/v0/5FZJ)
 - [Bài 3](https://www.jdoodle.com/embed/v0/5FZM)
