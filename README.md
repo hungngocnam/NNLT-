@@ -29,7 +29,7 @@
 ## Bài 9: Trừu tượng hóa dữ liệu 
 ## Bài Tập Lập Trình:
 ### Cấu Trúc Điều kiện if,switch
-- [Bài 1]
+- [Bài 1](https://www.jdoodle.com/embed/v0/5HFN)
 - [Bài 2]
 - [Bài 3](https://www.jdoodle.com/iembed/v0/BAO)
 - [Bài 4]
