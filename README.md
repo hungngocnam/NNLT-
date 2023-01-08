@@ -32,7 +32,7 @@
 - [Bài 1](https://www.jdoodle.com/embed/v0/5HFN)
 - [Bài 2](https://www.jdoodle.com/embed/v0/5HFR)
 - [Bài 3](https://www.jdoodle.com/iembed/v0/BAO)
-- [Bài 4]
+- [Bài 4](https://www.jdoodle.com/embed/v0/5HFV)
 ### Cấu trúc lặp(for,while,do/while)
 - [Bài 1]
 - [Bài 2](https://www.jdoodle.com/embed/v0/5FZJ)
