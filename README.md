@@ -23,6 +23,7 @@
 ## [Bài  kiểm tra](https://www.jdoodle.com/iembed/v0/BAM)
 ## [Bài Tập Ngày 3/1/2023](https://www.jdoodle.com/embed/v0/5HDX)
 ## Bài 5: Hàm
+-[Bài tập 1]()chưa làm 
 ## Bài 6: Mảng 
 ## Bài 7: Chuổi
 ## bài 8: con trỏ
@@ -40,6 +41,8 @@
 - [Bài 4](https://www.jdoodle.com/embed/v0/5HHG)
 - [Bài 5](https://www.jdoodle.com/embed/v0/5HHN)
 - [Bài 6](https://www.jdoodle.com/embed/v0/5HHP)
-- [Bài 7]()chua lam
+- [Bài 7]()chưa làm
 - [Bài 8](https://www.jdoodle.com/embed/v0/5HI2)
 - [Bài 9](https://www.jdoodle.com/embed/v0/5HHJ)
+### Hàm
+-[BÀi 1]()
