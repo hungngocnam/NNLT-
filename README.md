@@ -30,7 +30,7 @@
 ## Bài Tập Lập Trình:
 ### Cấu Trúc Điều kiện if,switch
 - [Bài 1](https://www.jdoodle.com/embed/v0/5HFN)
-- [Bài 2]
+- [Bài 2](https://www.jdoodle.com/embed/v0/5HFR)
 - [Bài 3](https://www.jdoodle.com/iembed/v0/BAO)
 - [Bài 4]
 ### Cấu trúc lặp(for,while,do/while)
