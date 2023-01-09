@@ -10,7 +10,7 @@
 - [Bài tập 1](https://www.jdoodle.com/iembed/v0/B8b)
 - [Bài tập 2](https://www.jdoodle.com/iembed/v0/B8d)
 - [Bài tập 3](https://www.jdoodle.com/iembed/v0/B8j)
-- [Bài tập 4](https://www.jdoodle.com/iembed/v0/B8v)
+- [Bài tập 4]()chưa làm
 - [Bài tập](https://www.jdoodle.com/embed/v0/5AwF)
 ## Bài tập
 - [Bài tập 1](https://www.jdoodle.com/iembed/v0/Bx5)
@@ -19,7 +19,7 @@
 - [Bài tập 1](https://www.jdoodle.com/iembed/v0/Bx7)
 - [Bài tập 2](https://www.jdoodle.com/embed/v0/5FU5)
 - [Bài tập 3](https://www.jdoodle.com/embed/v0/5HDD)
-- [Bài tập 4](https://www.jdoodle.com/embed/v0/5HFE)
+- [Bài tập 4]()chưa làm
 ## [Bài  kiểm tra](https://www.jdoodle.com/iembed/v0/BAM)
 ## [Bài Tập Ngày 3/1/2023](https://www.jdoodle.com/embed/v0/5HDX)
 ## Bài 5: Hàm
@@ -33,17 +33,17 @@
 - [Bài 1](https://www.jdoodle.com/embed/v0/5HFN)
 - [Bài 2](https://www.jdoodle.com/embed/v0/5HFR)
 - [Bài 3](https://www.jdoodle.com/iembed/v0/BAO)
-- [Bài 4](https://www.jdoodle.com/embed/v0/5HFV)
+- [Bài 4]()chưa làm
 ### Cấu trúc lặp(for,while,do/while)
 - [Bài 1](https://www.jdoodle.com/embed/v0/5HHu)
 - [Bài 2](https://www.jdoodle.com/embed/v0/5FZJ)
 - [Bài 3](https://www.jdoodle.com/embed/v0/5FZM)
-- [Bài 4](https://www.jdoodle.com/embed/v0/5HHG)
-- [Bài 5](https://www.jdoodle.com/embed/v0/5HHN)
-- [Bài 6](https://www.jdoodle.com/embed/v0/5HHP)
+- [Bài 4]()chưa làm
+- [Bài 5]()chưa làm
+- [Bài 6]()chưa làm
 - [Bài 7]()chưa làm
-- [Bài 8](https://www.jdoodle.com/embed/v0/5HI2)
-- [Bài 9](https://www.jdoodle.com/embed/v0/5HHJ)
+- [Bài 8]()chưa làm
+- [Bài 9]()chưa làm
 ### Hàm
-- [BÀi 1]()
-- 
+- [BÀi 1]()chưa làm
+
