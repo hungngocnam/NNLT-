@@ -38,7 +38,7 @@
 - [Bài 1](https://www.jdoodle.com/embed/v0/5HHu)
 - [Bài 2](https://www.jdoodle.com/embed/v0/5FZJ)
 - [Bài 3](https://www.jdoodle.com/embed/v0/5FZM)
-- [Bài 4]()chưa làm
+- [Bài 4](https://www.jdoodle.com/embed/v0/5HHG)
 - [Bài 5]()chưa làm
 - [Bài 6]()chưa làm
 - [Bài 7]()chưa làm
