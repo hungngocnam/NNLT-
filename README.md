@@ -24,7 +24,7 @@
 ## [Bài Tập Ngày 3/1/2023](https://www.jdoodle.com/embed/v0/5HDX)
 ## Bài 5: Hàm
 - [Bài tập 1]()chưa làm 
-## [Bài thi](https://www.jdoodle.com/a/5IIM)
+## [Bài thi 12/1/2023](https://www.jdoodle.com/a/5IIM)
 ## Bài 6: Mảng 
 ## Bài 7: Chuổi
 ## bài 8: con trỏ
